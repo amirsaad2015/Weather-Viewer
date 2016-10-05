@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebApi</string>
+    <string name="API_KEY">02a01d54e92989499067522fa21a02e2</string>
+    <string name="API_URL">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+</resources>
